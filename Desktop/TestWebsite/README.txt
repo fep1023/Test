@@ -1,0 +1,1 @@
+This is a simple, built from scratch website that I'm using as a testbed for the HTML and CSS that I pick up. Nothing more, nothing less. 
